@@ -1,2 +1,2 @@
 <?php
-echo 'Is new';
+echo 'Is new Bug fix';
